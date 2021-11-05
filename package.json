@@ -1,0 +1,20 @@
+{
+  "name": "nodejs-honeypot",
+  "type": "module",
+  "version": "1.0.0",
+  "description": "Honeytop for nodejs",
+  "main": "index.js",
+  "scripts": {
+    "honey": "node node/honey-ssh.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ildar-in/nodejs-honeypot.git"
+  },
+  "author": "ildar (M.I.R.)",
+  "license": "CC0",
+  "bugs": {
+    "url": "https://github.com/ildar-in/nodejs-honeypot/issues"
+  },
+  "homepage": "https://github.com/ildar-in/nodejs-honeypot#readme"
+}
